@@ -1,0 +1,12 @@
+{
+    "project_name": "Cacao Flavor Rating Prediction",
+    "dataset": "Flavors of Cacao",
+    "target": "Rating",
+    "problem_type": "regression",
+    "random_state": 42,
+    "test_size": 0.2,
+    "model": "RandomForestRegressor",
+    "n_estimators": 200,
+    "max_depth": 15,
+    "min_samples_leaf": 2
+}

@@ -1,0 +1,9 @@
+{
+    "problem_type": "regression",
+    "target": "Rating",
+    "metrics": {
+        "mae": 0.35746592564284657,
+        "rmse": 0.4693673110282866,
+        "r2_score": 0.04696767984085015
+    }
+}

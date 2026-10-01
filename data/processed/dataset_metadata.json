@@ -1,0 +1,20 @@
+{
+    "dataset_name": "Flavors of Cacao",
+    "problem_type": "regression",
+    "target": "rating",
+    "train_shape": [
+        1436,
+        3
+    ],
+    "test_shape": [
+        359,
+        3
+    ],
+    "numerical_features": [
+        "ref",
+        "review_date",
+        "cocoa_percent"
+    ],
+    "categorical_features": [],
+    "transformed_feature_count": 3
+}

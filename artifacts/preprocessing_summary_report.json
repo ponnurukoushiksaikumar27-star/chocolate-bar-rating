@@ -1,0 +1,18 @@
+{
+    "validation_status": "PASSED",
+    "X_train_shape": [
+        1436,
+        3
+    ],
+    "X_test_shape": [
+        359,
+        3
+    ],
+    "y_train_shape": [
+        1436
+    ],
+    "y_test_shape": [
+        359
+    ],
+    "errors": []
+}

@@ -1,0 +1,17 @@
+{
+    "validation_status": "PASSED",
+    "rows": 1795,
+    "columns": 9,
+    "missing_values": {
+        "Company\u00a0\n(Maker-if known)": 0,
+        "Specific Bean Origin\nor Bar Name": 0,
+        "REF": 0,
+        "Review\nDate": 0,
+        "Cocoa\nPercent": 0,
+        "Company\nLocation": 0,
+        "Rating": 0,
+        "Bean\nType": 1,
+        "Broad Bean\nOrigin": 1
+    },
+    "errors": []
+}
